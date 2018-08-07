@@ -29,6 +29,7 @@ public class simpleGet
 			int statuscode=response.getStatusCode();
 			//Assert.assertEquals(statuscode, 200);
 			//test commit 1
+			//test commit 2
 		}
 	
 
