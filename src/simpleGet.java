@@ -28,7 +28,6 @@ public class simpleGet
 			//System.out.println(response.getBody().asString().contains("B4W8J882"));
 			int statuscode=response.getStatusCode();
 			//Assert.assertEquals(statuscode, 200);
-			//commit1
 		}
 	
 
